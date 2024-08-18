@@ -1,0 +1,18 @@
+
+main{
+	width: 90%;
+	margin: auto;
+}
+
+main form{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+}
+
+main form input{
+
+}
+
+main section{
+	max-width: 750px;
+}
